@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+  background-color: gainsboro;
+}
+
+h1 {
+  margin: 0;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  color: rgb(35, 58, 58);
+}
+
+.input {
+  border: 1px solid darkgreen;
+  border-radius: 0.3rem;
+  padding: 0.5rem;
+  width: 8rem;
+}
+
+select {
+  margin-left: 1rem;
+}
+
+.equal {
+  padding: 0.25rem;
+  font-weight: bold;
+  font-size: 2rem;
+}
